@@ -5,6 +5,7 @@ Visualization rendering is assigned to the WebGL JavaScript API, which allows vi
 Tables are also generated using the DataTables (https://www.datatables.net/) JavaScript library, allowing for querying, selection and data export. 
 A visual representation of multi-sequence alignment for FASTA input  les was also implemented using the BioJS MSA Viewer package (https://www.npmjs.com/package/msa), which allows to explore sequences, order and highlight regions according to data characteristics. Additional visual representations (Pie Charts and Interactive Distance Matrix) are constructed using Data Driven Documents (D3.js) (https://d3js.org/).
 
+Teste
 
 Features
 ========
